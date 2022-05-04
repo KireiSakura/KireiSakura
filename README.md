@@ -11,8 +11,8 @@
 
 <!-- Socials --> 
 
-<h3 align="center">Let's Connect! :</h3>  
-<div align="center">
+<h3>Let's Connect! :</h3>  
+<div>
 <a href="https://www.linkedin.com/in/shruti-vishrant/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
 <a href="mailto:vishrantshruti@gmail.com" target="blank">
@@ -23,8 +23,8 @@
 
 <!-- Tech Stack --> 
 
-<h3 align="Center">Languages and Tools:</h3>  
-<p align="center">
+<h3>Languages and Tools:</h3>  
+<p>
 <img style="height: 4rem" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img style="height: 4rem" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img style="height: 4rem" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
