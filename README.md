@@ -23,7 +23,7 @@
 
 <!-- Tech Stack --> 
 
-<h3 align="center">Languages and Tools:</h3>  
+<h3 align="center">Languages and Technologies:</h3>  
 <p align="center">
 <img style="height: 4rem" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
 <img style="height: 4rem" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
